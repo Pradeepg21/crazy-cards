@@ -1,0 +1,54 @@
+Opisyal na mga patakaran
+
+## Layunin
+Maging una sa pag-ubos ng lahat ng iyong baraha. Pagkatapos noon, tuloy ang laro hanggang matapos ang lahat, kaya bawat manlalaro ay may huling puwesto.
+
+## Ang deck
+108 baraha: sa bawat kulay (Red, Yellow, Green at Blue) may isang 0, tig-dalawa ng 1–9, at tig-dalawa ng Skip, Reverse at Draw Two. Dagdag pa ang 4 na Wild at 4 na Wild Draw Four.
+
+## Paghahanda
+Pipindutin ng dealer ang Shuffle & Deal. Lahat ay bibigyan ng 7 baraha at ang pinakaibabaw na baraha ng deck ang magsisimula ng tapunan. Lilipat ang papel ng dealer nang isang upuan pakaliwa bawat round.
+
+## Unang baraha
+Numero: ang manlalaro sa kaliwa ng dealer ang mauuna.
+Skip: lalaktawan ang manlalarong iyon.
+Reverse: babaligtad ang direksyon at ang dealer ang mauuna.
+Draw Two: bubunot ng 2 ang manlalarong iyon at lalaktawan siya.
+Wild: pipili ng kulay ang manlalarong iyon, saka maglalaro.
+Wild Draw Four: ibabalik ito sa deck at magbubukas ng bagong baraha.
+
+## Iyong turn
+Maglaro ng isang barahang tugma sa nasa ibabaw sa kulay, numero o simbolo — o maglaro ng Wild. Kung hindi ka makapaglaro (o ayaw mo), bumunot ng isa. Kung puwedeng laruin ang nabunot, puwede mo itong ilapag agad; kung hindi, tapos na ang turn mo. Pagkatapos bumunot, ang nabunot na baraha lang ang puwedeng laruin.
+
+## Skip
+Mawawalan ng turn ang susunod na manlalaro.
+
+## Reverse
+Magbabago ang direksyon ng laro. Kung dalawa na lang ang natitira, gumagana ang Reverse na parang Skip.
+
+## Draw Two
+Bubunot ng 2 ang susunod na manlalaro at mawawalan ng turn. Hindi puwedeng ipatong-patong ang mga Draw na baraha.
+
+## Wild
+Puwedeng ilapag sa kahit anong baraha; piliin ang kulay na itutuloy.
+
+## Wild Draw Four
+Pumili ng kulay; bubunot ng 4 ang susunod na manlalaro at mawawalan ng turn. Puwede mo lang itong laruin kung wala kang barahang kapareho ng kasalukuyang kulay (hindi kasama ang mga barahang pareho ng numero o simbolo).
+
+## Paghamon sa Wild Draw Four
+Puwedeng hamunin ng manlalarong tinamaan ng Wild Draw Four ito. Kung ilegal itong nilaro, ang naglaro ang bubunot ng 4 at normal na maglalaro ang humamon. Kung legal, bubunot ng 6 ang humamon at mawawalan ng turn.
+
+## UNO!
+Pindutin ang UNO kapag ilalapag mo na ang pangalawa sa huling baraha mo. Kung isa na lang ang baraha mo nang hindi ito sinasabi, puwede kang mahuli ng sinumang manlalaro bago magsimula ang turn ng susunod — bubunot ka ng 2. Puwede mo pa itong sabihin nang huli basta wala pang nakahuhuli sa iyo.
+
+## Kapag naubos ang deck
+Kapag wala nang laman ang deck, babalasahin ang tapunan (maliban sa pinakaibabaw) para maging bagong deck.
+
+## Pagtatapos
+Kapag nailapag mo ang huling baraha, tapos ka na sa round. Kung Draw Two o Wild Draw Four iyon, bubunot pa rin ang susunod na manlalaro.
+
+## Puntos
+Kapag natapos ka, makukuha mo ang puntos ng mga barahang natira sa kamay ng lahat ng naglalaro pa: mga numero ayon sa halaga, Skip/Reverse/Draw Two 20 puntos, Wild/Wild Draw Four 50 puntos. Naiipon ang puntos bawat round.
+
+## Online na laro
+May 30 segundo ang bawat turn; kapag naubos ang oras, bubunot ka at lilipat ang turn. Kung may mawalan ng koneksyon o umalis sa app, ang computer ang maglalaro para sa kanya hanggang bumalik siya — gamitin ang Rejoin sa home screen. Ang larong walang galaw sa loob ng 5 minuto ay magsasara sa lahat ng telepono.

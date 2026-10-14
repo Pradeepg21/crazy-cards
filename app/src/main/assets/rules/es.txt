@@ -1,0 +1,54 @@
+Reglas oficiales
+
+## Objetivo
+Sé el primero en quedarte sin cartas. Después la partida sigue hasta que todos terminan, para que cada jugador tenga una posición final.
+
+## La baraja
+108 cartas: en cada color (Red, Yellow, Green y Blue) hay un 0, dos de cada número del 1 al 9 y dos de cada Skip, Reverse y Draw Two. Además, 4 Wild y 4 Wild Draw Four.
+
+## Preparación
+El repartidor toca Shuffle & Deal. Cada uno recibe 7 cartas y la carta superior de la baraja inicia la pila de descarte. El papel de repartidor pasa un asiento a la izquierda en cada ronda.
+
+## Primera carta
+Número: empieza el jugador a la izquierda del repartidor.
+Skip: ese jugador pierde su turno.
+Reverse: cambia el sentido y empieza el repartidor.
+Draw Two: ese jugador roba 2 y pierde su turno.
+Wild: ese jugador elige el color y luego juega.
+Wild Draw Four: vuelve a la baraja y se da vuelta otra carta.
+
+## Tu turno
+Juega una carta que coincida con la de arriba en color, número o símbolo, o juega una Wild. Si no puedes (o no quieres) jugar, roba una carta. Si la carta robada se puede jugar, puedes jugarla en ese momento; si no, termina tu turno. Después de robar solo se puede jugar la carta robada.
+
+## Skip
+El siguiente jugador pierde su turno.
+
+## Reverse
+Cambia el sentido del juego. Si solo quedan dos jugadores, Reverse funciona como Skip.
+
+## Draw Two
+El siguiente jugador roba 2 cartas y pierde su turno. Las cartas de robo no se acumulan.
+
+## Wild
+Se puede jugar sobre cualquier carta; elige el color con el que sigue el juego.
+
+## Wild Draw Four
+Elige el color; el siguiente jugador roba 4 y pierde su turno. Solo puedes jugarla si no tienes ninguna carta del color actual (las cartas del mismo número o símbolo no cuentan).
+
+## Desafiar un Wild Draw Four
+El jugador afectado por un Wild Draw Four puede desafiarlo. Si la carta se jugó de forma ilegal, quien la jugó roba 4 y el desafiante juega con normalidad. Si era legal, el desafiante roba 6 y pierde su turno.
+
+## ¡UNO!
+Toca UNO cuando vayas a jugar tu penúltima carta. Si te quedas con una carta sin decirlo, cualquier jugador puede atraparte antes de que empiece el turno del siguiente: robas 2. Puedes decirlo tarde mientras nadie te haya atrapado.
+
+## Si se acaba la baraja
+Cuando la baraja se vacía, se mezcla la pila de descarte (menos la carta superior) para formar una nueva baraja.
+
+## Terminar
+Al jugar tu última carta terminas la ronda. Si era un Draw Two o un Wild Draw Four, el siguiente jugador roba igualmente.
+
+## Puntuación
+Al terminar sumas los puntos de las cartas que les quedan a quienes siguen jugando: números por su valor, Skip/Reverse/Draw Two 20 puntos, Wild/Wild Draw Four 50 puntos. Los puntos se acumulan entre rondas.
+
+## Juego en línea
+Cada turno tiene un límite de 30 segundos; si se agota, robas y el turno pasa. Si alguien pierde la conexión o sale de la app, la computadora juega por esa persona hasta que vuelva: usa Rejoin en la pantalla de inicio. Una partida sin jugadas durante 5 minutos se cierra en todos los teléfonos.

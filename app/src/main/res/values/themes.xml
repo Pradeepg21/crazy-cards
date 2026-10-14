@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.Uno" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/table</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Theme.Uno.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/table</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.Uno</item>
+    </style>
+</resources>

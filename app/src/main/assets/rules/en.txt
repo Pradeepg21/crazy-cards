@@ -1,0 +1,54 @@
+Official rules
+
+## Goal
+Be the first to get rid of all your cards. Play continues after that until everyone has finished, so every player gets a final place.
+
+## The deck
+108 cards: in each of Red, Yellow, Green and Blue there is one 0, two each of 1–9, and two each of Skip, Reverse and Draw Two. Plus 4 Wild and 4 Wild Draw Four cards.
+
+## Setup
+The dealer taps Shuffle & Deal. Everyone gets 7 cards and the top card of the deck starts the discard pile. The dealer role moves one seat to the left every round.
+
+## First card
+Number: the player left of the dealer starts.
+Skip: that player is skipped.
+Reverse: direction flips and the dealer starts.
+Draw Two: that player draws 2 and is skipped.
+Wild: that player picks the color, then plays.
+Wild Draw Four: it goes back into the deck and a new card is turned.
+
+## Your turn
+Play one card that matches the top card by color, number or symbol — or play a Wild. If you can't (or don't want to) play, draw one card. If the drawn card can be played you may play it right away; otherwise your turn ends. Only the drawn card can be played after drawing.
+
+## Skip
+The next player loses their turn.
+
+## Reverse
+Play changes direction. With only two players left, Reverse works like Skip.
+
+## Draw Two
+The next player draws 2 cards and loses their turn. Draw cards cannot be stacked.
+
+## Wild
+Play it on anything and choose the color that continues play.
+
+## Wild Draw Four
+Choose the color; the next player draws 4 and loses their turn. You may only play it when you have no card matching the current color (cards of the same number or symbol don't count).
+
+## Challenging a Wild Draw Four
+The player hit by a Wild Draw Four may challenge it. If the card was played illegally, the player who played it draws 4 instead and the challenger plays normally. If it was legal, the challenger draws 6 and loses their turn.
+
+## UNO!
+Tap UNO when you are about to play your second-to-last card. If you leave yourself with one card without calling it, any player can catch you before the next player begins their turn — you draw 2. You can still call it late if nobody has caught you yet.
+
+## Running out of cards
+When the deck is empty, the discard pile (except the top card) is shuffled to form a new deck.
+
+## Going out
+When you play your last card you finish the round. If it was a Draw Two or Wild Draw Four, the next player still draws.
+
+## Scoring
+When you go out you score the points left in the hands of everyone still playing: number cards at face value, Skip/Reverse/Draw Two 20 points, Wild/Wild Draw Four 50 points. Scores add up across rounds.
+
+## Online play
+Each turn has a 30-second limit; when it runs out you draw and your turn passes. If someone loses connection or leaves the app, the computer plays for them until they come back — use Rejoin on the home screen. A game with no moves for 5 minutes closes on every phone.

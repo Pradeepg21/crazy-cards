@@ -1,0 +1,54 @@
+Regole ufficiali
+
+## Obiettivo
+Sii il primo a liberarti di tutte le tue carte. Dopo, il gioco continua finché tutti hanno finito, così ogni giocatore ottiene una posizione finale.
+
+## Il mazzo
+108 carte: in ogni colore (Red, Yellow, Green e Blue) ci sono uno 0, due di ogni numero da 1 a 9 e due di ogni Skip, Reverse e Draw Two. Più 4 Wild e 4 Wild Draw Four.
+
+## Preparazione
+Il mazziere tocca Shuffle & Deal. Ognuno riceve 7 carte e la prima carta del mazzo apre la pila degli scarti. Il ruolo di mazziere passa di un posto a sinistra a ogni mano.
+
+## Prima carta
+Numero: inizia il giocatore alla sinistra del mazziere.
+Skip: quel giocatore salta il turno.
+Reverse: il senso si inverte e inizia il mazziere.
+Draw Two: quel giocatore pesca 2 carte e salta il turno.
+Wild: quel giocatore sceglie il colore e poi gioca.
+Wild Draw Four: torna nel mazzo e si scopre un'altra carta.
+
+## Il tuo turno
+Gioca una carta uguale a quella in cima per colore, numero o simbolo, oppure gioca una Wild. Se non puoi (o non vuoi) giocare, pesca una carta. Se la carta pescata è giocabile puoi giocarla subito; altrimenti il tuo turno finisce. Dopo aver pescato si può giocare solo la carta pescata.
+
+## Skip
+Il giocatore successivo salta il turno.
+
+## Reverse
+Il senso di gioco cambia. Con solo due giocatori rimasti, Reverse funziona come Skip.
+
+## Draw Two
+Il giocatore successivo pesca 2 carte e salta il turno. Le carte pesca non si sommano.
+
+## Wild
+Si gioca su qualsiasi carta; scegli il colore con cui continua il gioco.
+
+## Wild Draw Four
+Scegli il colore; il giocatore successivo pesca 4 carte e salta il turno. Puoi giocarla solo se non hai carte del colore attuale (le carte con lo stesso numero o simbolo non contano).
+
+## Contestare un Wild Draw Four
+Il giocatore colpito da un Wild Draw Four può contestarlo. Se la carta è stata giocata in modo irregolare, chi l'ha giocata pesca 4 carte al suo posto e lo sfidante gioca normalmente. Se era regolare, lo sfidante pesca 6 carte e salta il turno.
+
+## UNO!
+Tocca UNO quando stai per giocare la penultima carta. Se resti con una carta senza dirlo, qualsiasi giocatore può coglierti prima che il giocatore successivo inizi il turno: peschi 2 carte. Puoi ancora dirlo in ritardo finché nessuno ti ha colto.
+
+## Mazzo finito
+Quando il mazzo è vuoto, la pila degli scarti (tranne la carta in cima) viene mescolata per formare un nuovo mazzo.
+
+## Chiudere
+Giocando l'ultima carta chiudi la mano. Se era un Draw Two o un Wild Draw Four, il giocatore successivo pesca comunque.
+
+## Punteggio
+Quando chiudi, guadagni i punti delle carte rimaste in mano a chi sta ancora giocando: numeri al loro valore, Skip/Reverse/Draw Two 20 punti, Wild/Wild Draw Four 50 punti. I punti si sommano di mano in mano.
+
+## Gioco online
+Ogni turno ha un limite di 30 secondi; allo scadere peschi e il turno passa. Se qualcuno perde la connessione o esce dall'app, il computer gioca per lui finché non torna: usa Rejoin nella schermata principale. Una partita senza mosse per 5 minuti si chiude su tutti i telefoni.

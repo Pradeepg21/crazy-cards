@@ -1,0 +1,73 @@
+rules_version = '2';
+
+// Firebase project: satya-digital-7248e — SHARED by the NCERT app and UNO Multiplayer.
+// A project has one rules file, so this contains both apps' rules. Keep it in sync with
+// ncert/firestore.rules; publishing either app's rules alone would lock the other app out.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ================================================================== NCERT
+    // Content collections: public read, so content loads before and after
+    // sign-in; only the Admin SDK import script (tools/import/) can write —
+    // it bypasses these rules entirely.
+    match /classes/{classId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /subjects/{subjectId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /chapters/{chapterId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /modules/{moduleId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /questions/{questionId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // A student's saved exam results: one document per module holding the last 3 attempts.
+    match /users/{uid}/examAttempts/{moduleId} {
+      allow read, delete: if request.auth != null && request.auth.uid == uid;
+      allow create, update: if request.auth != null && request.auth.uid == uid
+        && request.resource.data.moduleId == moduleId
+        && request.resource.data.attempts is list
+        && request.resource.data.attempts.size() <= 3;
+    }
+
+    // ================================================================== UNO Multiplayer
+    // One document per room (id = 6-character game code), plus a presence heartbeat per player.
+    match /games/{code} {
+      function signedIn() { return request.auth != null; }
+      function member() { return request.auth.uid in resource.data.uids; }
+      // Joining a lobby: the only change is adding yourself.
+      function joining() {
+        return resource.data.status == 'lobby'
+          && request.resource.data.uids.hasAll(resource.data.uids)
+          && request.resource.data.uids.removeAll(resource.data.uids).hasOnly([request.auth.uid])
+          && request.resource.data.hostUid == resource.data.hostUid;
+      }
+
+      allow read: if signedIn();
+      allow create: if signedIn()
+        && request.resource.data.hostUid == request.auth.uid
+        && request.resource.data.uids == [request.auth.uid];
+      // Members play; others may only join a lobby, or reuse the code of an ended game.
+      allow update: if signedIn() && (member() || joining()
+        || (resource.data.status == 'ended' && request.resource.data.hostUid == request.auth.uid
+            && request.resource.data.uids == [request.auth.uid]));
+      allow delete: if false;
+
+      match /presence/{uid} {
+        allow read: if signedIn();
+        allow write: if signedIn() && request.auth.uid == uid;
+      }
+    }
+  }
+}

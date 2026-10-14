@@ -1,0 +1,54 @@
+Offizielle Regeln
+
+## Ziel
+Werde als Erster alle deine Karten los. Danach geht das Spiel weiter, bis alle fertig sind, sodass jeder Spieler eine Endplatzierung bekommt.
+
+## Das Kartenspiel
+108 Karten: In jeder Farbe (Red, Yellow, Green und Blue) gibt es eine 0, je zwei von 1–9 und je zwei Skip, Reverse und Draw Two. Dazu 4 Wild und 4 Wild Draw Four.
+
+## Vorbereitung
+Der Geber tippt auf Shuffle & Deal. Jeder bekommt 7 Karten, und die oberste Karte des Stapels eröffnet den Ablagestapel. Die Geberrolle wandert jede Runde einen Platz nach links.
+
+## Erste Karte
+Zahl: Der Spieler links vom Geber beginnt.
+Skip: Dieser Spieler wird übersprungen.
+Reverse: Die Richtung dreht sich und der Geber beginnt.
+Draw Two: Dieser Spieler zieht 2 Karten und setzt aus.
+Wild: Dieser Spieler wählt die Farbe und spielt dann.
+Wild Draw Four: Sie kommt zurück in den Stapel und eine neue Karte wird aufgedeckt.
+
+## Dein Zug
+Spiele eine Karte, die in Farbe, Zahl oder Symbol zur obersten Karte passt – oder spiele eine Wild. Wenn du nicht spielen kannst (oder willst), ziehe eine Karte. Ist die gezogene Karte spielbar, darfst du sie sofort legen; sonst endet dein Zug. Nach dem Ziehen darf nur die gezogene Karte gespielt werden.
+
+## Skip
+Der nächste Spieler setzt aus.
+
+## Reverse
+Die Spielrichtung wechselt. Sind nur noch zwei Spieler übrig, wirkt Reverse wie Skip.
+
+## Draw Two
+Der nächste Spieler zieht 2 Karten und setzt aus. Ziehkarten können nicht gestapelt werden.
+
+## Wild
+Darf auf jede Karte gelegt werden; wähle die Farbe, mit der weitergespielt wird.
+
+## Wild Draw Four
+Wähle die Farbe; der nächste Spieler zieht 4 Karten und setzt aus. Du darfst sie nur spielen, wenn du keine Karte der aktuellen Farbe hast (Karten mit gleicher Zahl oder gleichem Symbol zählen nicht).
+
+## Wild Draw Four anzweifeln
+Der Spieler, den ein Wild Draw Four trifft, darf es anzweifeln. Wurde die Karte regelwidrig gespielt, zieht stattdessen der Ausspielende 4 Karten und der Herausforderer spielt normal. War sie regelkonform, zieht der Herausforderer 6 Karten und setzt aus.
+
+## UNO!
+Tippe auf UNO, wenn du gerade deine vorletzte Karte spielst. Bleibst du mit einer Karte übrig, ohne es anzusagen, kann dich jeder Spieler erwischen, bevor der nächste Spieler seinen Zug beginnt – dann ziehst du 2 Karten. Solange dich niemand erwischt hat, kannst du es noch nachholen.
+
+## Stapel leer
+Ist der Stapel leer, wird der Ablagestapel (außer der obersten Karte) gemischt und bildet einen neuen Stapel.
+
+## Fertig werden
+Mit deiner letzten Karte beendest du die Runde. War es ein Draw Two oder Wild Draw Four, zieht der nächste Spieler trotzdem.
+
+## Punkte
+Wenn du fertig bist, bekommst du die Punkte der Karten, die die noch spielenden Mitspieler auf der Hand haben: Zahlenkarten nach Wert, Skip/Reverse/Draw Two 20 Punkte, Wild/Wild Draw Four 50 Punkte. Die Punkte werden über die Runden addiert.
+
+## Online-Spiel
+Jeder Zug hat ein Limit von 30 Sekunden; läuft es ab, ziehst du und der Zug geht weiter. Verliert jemand die Verbindung oder verlässt die App, spielt der Computer für ihn, bis er zurückkommt – nutze Rejoin auf dem Startbildschirm. Ein Spiel ohne Zug für 5 Minuten wird auf allen Handys beendet.

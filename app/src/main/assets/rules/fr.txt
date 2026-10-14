@@ -1,0 +1,54 @@
+Règles officielles
+
+## But du jeu
+Soyez le premier à vous débarrasser de toutes vos cartes. La partie continue ensuite jusqu'à ce que tout le monde ait fini, pour que chaque joueur obtienne un classement.
+
+## Le paquet
+108 cartes : dans chaque couleur (Red, Yellow, Green et Blue), un 0, deux de chaque chiffre de 1 à 9 et deux de chaque Skip, Reverse et Draw Two. Plus 4 Wild et 4 Wild Draw Four.
+
+## Mise en place
+Le donneur touche Shuffle & Deal. Chacun reçoit 7 cartes et la carte du dessus du paquet commence la défausse. Le rôle de donneur passe d'une place vers la gauche à chaque manche.
+
+## Première carte
+Chiffre : le joueur à gauche du donneur commence.
+Skip : ce joueur passe son tour.
+Reverse : le sens s'inverse et le donneur commence.
+Draw Two : ce joueur pioche 2 cartes et passe son tour.
+Wild : ce joueur choisit la couleur, puis joue.
+Wild Draw Four : elle retourne dans le paquet et une nouvelle carte est retournée.
+
+## Votre tour
+Jouez une carte de même couleur, chiffre ou symbole que celle du dessus, ou jouez une Wild. Si vous ne pouvez pas (ou ne voulez pas) jouer, piochez une carte. Si elle est jouable, vous pouvez la poser tout de suite ; sinon votre tour s'arrête. Après avoir pioché, seule la carte piochée peut être jouée.
+
+## Skip
+Le joueur suivant passe son tour.
+
+## Reverse
+Le sens du jeu s'inverse. Quand il ne reste que deux joueurs, Reverse agit comme Skip.
+
+## Draw Two
+Le joueur suivant pioche 2 cartes et passe son tour. Les cartes de pioche ne se cumulent pas.
+
+## Wild
+Se pose sur n'importe quelle carte ; choisissez la couleur qui continue le jeu.
+
+## Wild Draw Four
+Choisissez la couleur ; le joueur suivant pioche 4 cartes et passe son tour. Vous ne pouvez la jouer que si vous n'avez aucune carte de la couleur demandée (les cartes de même chiffre ou symbole ne comptent pas).
+
+## Contester un Wild Draw Four
+Le joueur visé par un Wild Draw Four peut le contester. Si la carte a été jouée illégalement, celui qui l'a posée pioche 4 cartes à sa place et le contestataire joue normalement. Si elle était légale, le contestataire pioche 6 cartes et passe son tour.
+
+## UNO !
+Touchez UNO quand vous êtes sur le point de jouer votre avant-dernière carte. Si vous restez avec une seule carte sans l'annoncer, n'importe quel joueur peut vous prendre avant que le joueur suivant commence son tour : vous piochez 2 cartes. Vous pouvez encore l'annoncer en retard tant que personne ne vous a pris.
+
+## Paquet épuisé
+Quand le paquet est vide, la défausse (sauf la carte du dessus) est mélangée pour former un nouveau paquet.
+
+## Finir
+Quand vous posez votre dernière carte, vous terminez la manche. Si c'était un Draw Two ou un Wild Draw Four, le joueur suivant pioche quand même.
+
+## Points
+Quand vous finissez, vous marquez les points des cartes restant dans la main de ceux qui jouent encore : chiffres à leur valeur, Skip/Reverse/Draw Two 20 points, Wild/Wild Draw Four 50 points. Les scores s'additionnent d'une manche à l'autre.
+
+## Jeu en ligne
+Chaque tour est limité à 30 secondes ; une fois le temps écoulé, vous piochez et votre tour passe. Si quelqu'un perd la connexion ou quitte l'application, l'ordinateur joue à sa place jusqu'à son retour : utilisez Rejoin sur l'écran d'accueil. Une partie sans coup pendant 5 minutes se ferme sur tous les téléphones.

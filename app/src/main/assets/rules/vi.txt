@@ -1,0 +1,54 @@
+Luật chính thức
+
+## Mục tiêu
+Hãy là người đầu tiên đánh hết bài trên tay. Sau đó ván chơi tiếp tục cho đến khi mọi người đều xong, để ai cũng có thứ hạng cuối cùng.
+
+## Bộ bài
+108 lá: mỗi màu (Red, Yellow, Green và Blue) có một lá 0, hai lá cho mỗi số từ 1–9 và hai lá mỗi loại Skip, Reverse, Draw Two. Thêm 4 lá Wild và 4 lá Wild Draw Four.
+
+## Chuẩn bị
+Người chia bài chạm Shuffle & Deal. Mỗi người nhận 7 lá và lá trên cùng của bộ bài mở đầu chồng bài bỏ. Vai trò người chia chuyển sang trái một ghế sau mỗi vòng.
+
+## Lá đầu tiên
+Số: người ngồi bên trái người chia đi trước.
+Skip: người đó bị mất lượt.
+Reverse: đổi chiều và người chia đi trước.
+Draw Two: người đó rút 2 lá và mất lượt.
+Wild: người đó chọn màu rồi đánh.
+Wild Draw Four: trả lại vào bộ bài và lật một lá mới.
+
+## Lượt của bạn
+Đánh một lá trùng màu, số hoặc ký hiệu với lá trên cùng — hoặc đánh một lá Wild. Nếu không thể (hoặc không muốn) đánh, hãy rút một lá. Nếu lá vừa rút đánh được, bạn có thể đánh ngay; nếu không, lượt của bạn kết thúc. Sau khi rút chỉ được đánh lá vừa rút.
+
+## Skip
+Người tiếp theo mất lượt.
+
+## Reverse
+Đổi chiều chơi. Khi chỉ còn hai người, Reverse có tác dụng như Skip.
+
+## Draw Two
+Người tiếp theo rút 2 lá và mất lượt. Không được cộng dồn các lá rút bài.
+
+## Wild
+Đánh lên bất kỳ lá nào; chọn màu để tiếp tục.
+
+## Wild Draw Four
+Chọn màu; người tiếp theo rút 4 lá và mất lượt. Bạn chỉ được đánh lá này khi không có lá nào cùng màu hiện tại (lá cùng số hoặc ký hiệu không tính).
+
+## Thách thức Wild Draw Four
+Người bị đánh Wild Draw Four có thể thách thức. Nếu lá bài bị đánh sai luật, người đánh phải rút 4 lá thay vào đó và người thách thức chơi bình thường. Nếu đúng luật, người thách thức rút 6 lá và mất lượt.
+
+## UNO!
+Chạm UNO khi bạn sắp đánh lá áp chót. Nếu còn một lá mà không hô, bất kỳ ai cũng có thể bắt lỗi bạn trước khi người tiếp theo bắt đầu lượt — bạn rút 2 lá. Bạn vẫn có thể hô muộn nếu chưa ai bắt lỗi.
+
+## Hết bài
+Khi bộ bài hết, chồng bài bỏ (trừ lá trên cùng) được xáo lại thành bộ bài mới.
+
+## Về đích
+Khi đánh lá cuối cùng, bạn hoàn thành vòng chơi. Nếu đó là Draw Two hoặc Wild Draw Four, người tiếp theo vẫn phải rút.
+
+## Tính điểm
+Khi về đích, bạn được cộng điểm các lá còn lại trên tay những người vẫn đang chơi: lá số tính theo giá trị, Skip/Reverse/Draw Two 20 điểm, Wild/Wild Draw Four 50 điểm. Điểm được cộng dồn qua các vòng.
+
+## Chơi trực tuyến
+Mỗi lượt giới hạn 30 giây; hết giờ bạn sẽ rút một lá và lượt được chuyển đi. Nếu ai đó mất kết nối hoặc rời ứng dụng, máy sẽ chơi thay cho đến khi họ quay lại — dùng Rejoin ở màn hình chính. Ván không có nước đi nào trong 5 phút sẽ đóng trên mọi điện thoại.

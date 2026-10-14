@@ -1,0 +1,54 @@
+Aturan resmi
+
+## Tujuan
+Jadilah yang pertama menghabiskan semua kartumu. Setelah itu permainan berlanjut sampai semua selesai, sehingga setiap pemain mendapat peringkat akhir.
+
+## Dek
+108 kartu: di setiap warna (Red, Yellow, Green, dan Blue) ada satu 0, masing-masing dua untuk 1–9, dan masing-masing dua Skip, Reverse, dan Draw Two. Ditambah 4 Wild dan 4 Wild Draw Four.
+
+## Persiapan
+Pembagi mengetuk Shuffle & Deal. Semua pemain mendapat 7 kartu dan kartu teratas dek menjadi awal tumpukan buangan. Peran pembagi bergeser satu kursi ke kiri setiap ronde.
+
+## Kartu pertama
+Angka: pemain di kiri pembagi memulai.
+Skip: pemain itu dilewati.
+Reverse: arah berbalik dan pembagi memulai.
+Draw Two: pemain itu mengambil 2 kartu dan dilewati.
+Wild: pemain itu memilih warna, lalu bermain.
+Wild Draw Four: kartu dikembalikan ke dek dan kartu baru dibuka.
+
+## Giliranmu
+Mainkan satu kartu yang cocok dengan kartu teratas dalam warna, angka, atau simbol — atau mainkan Wild. Jika tidak bisa (atau tidak mau) bermain, ambil satu kartu. Jika kartu yang diambil bisa dimainkan, kamu boleh langsung memainkannya; jika tidak, giliranmu selesai. Setelah mengambil, hanya kartu yang diambil itu yang boleh dimainkan.
+
+## Skip
+Pemain berikutnya kehilangan gilirannya.
+
+## Reverse
+Arah permainan berubah. Jika hanya tersisa dua pemain, Reverse berfungsi seperti Skip.
+
+## Draw Two
+Pemain berikutnya mengambil 2 kartu dan kehilangan gilirannya. Kartu ambil tidak bisa ditumpuk.
+
+## Wild
+Bisa dimainkan di atas kartu apa pun; pilih warna untuk melanjutkan permainan.
+
+## Wild Draw Four
+Pilih warna; pemain berikutnya mengambil 4 kartu dan kehilangan gilirannya. Kamu hanya boleh memainkannya jika tidak punya kartu dengan warna saat ini (kartu dengan angka atau simbol yang sama tidak dihitung).
+
+## Menantang Wild Draw Four
+Pemain yang terkena Wild Draw Four boleh menantangnya. Jika kartu dimainkan secara tidak sah, pemain yang memainkannya mengambil 4 kartu dan penantang bermain seperti biasa. Jika sah, penantang mengambil 6 kartu dan kehilangan gilirannya.
+
+## UNO!
+Ketuk UNO saat akan memainkan kartu kedua dari terakhir. Jika kamu tersisa satu kartu tanpa menyerukannya, pemain mana pun bisa menangkapmu sebelum pemain berikutnya memulai giliran — kamu mengambil 2 kartu. Kamu masih boleh menyerukannya terlambat selama belum ada yang menangkapmu.
+
+## Dek habis
+Saat dek kosong, tumpukan buangan (kecuali kartu teratas) dikocok menjadi dek baru.
+
+## Selesai
+Saat memainkan kartu terakhir, kamu menyelesaikan ronde. Jika itu Draw Two atau Wild Draw Four, pemain berikutnya tetap mengambil kartu.
+
+## Skor
+Saat selesai, kamu mendapat poin dari kartu yang tersisa di tangan semua pemain yang masih bermain: kartu angka sesuai nilainya, Skip/Reverse/Draw Two 20 poin, Wild/Wild Draw Four 50 poin. Skor dijumlahkan antar-ronde.
+
+## Bermain online
+Setiap giliran dibatasi 30 detik; jika waktu habis, kamu mengambil kartu dan giliran berpindah. Jika seseorang terputus atau keluar dari aplikasi, komputer bermain untuknya sampai ia kembali — gunakan Rejoin di layar utama. Permainan tanpa langkah selama 5 menit ditutup di semua ponsel.

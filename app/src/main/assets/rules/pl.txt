@@ -1,0 +1,54 @@
+Oficjalne zasady
+
+## Cel
+Pozbądź się wszystkich kart jako pierwszy. Potem gra trwa dalej, aż wszyscy skończą, więc każdy gracz otrzymuje miejsce końcowe.
+
+## Talia
+108 kart: w każdym kolorze (Red, Yellow, Green i Blue) jedno 0, po dwie karty od 1 do 9 oraz po dwie Skip, Reverse i Draw Two. Do tego 4 Wild i 4 Wild Draw Four.
+
+## Przygotowanie
+Rozdający dotyka Shuffle & Deal. Każdy dostaje 7 kart, a wierzchnia karta talii rozpoczyna stos kart odrzuconych. Co rundę rola rozdającego przechodzi o jedno miejsce w lewo.
+
+## Pierwsza karta
+Liczba: zaczyna gracz po lewej stronie rozdającego.
+Skip: ten gracz traci kolejkę.
+Reverse: kierunek się odwraca i zaczyna rozdający.
+Draw Two: ten gracz dobiera 2 karty i traci kolejkę.
+Wild: ten gracz wybiera kolor, a potem gra.
+Wild Draw Four: wraca do talii i odkrywa się nową kartę.
+
+## Twoja kolej
+Zagraj kartę pasującą do wierzchniej kolorem, liczbą lub symbolem — albo zagraj Wild. Jeśli nie możesz (lub nie chcesz) zagrać, dobierz jedną kartę. Jeśli dobraną kartę można zagrać, możesz to zrobić od razu; w przeciwnym razie twoja kolej się kończy. Po dobraniu można zagrać tylko dobraną kartę.
+
+## Skip
+Następny gracz traci kolejkę.
+
+## Reverse
+Kierunek gry się zmienia. Gdy zostało tylko dwóch graczy, Reverse działa jak Skip.
+
+## Draw Two
+Następny gracz dobiera 2 karty i traci kolejkę. Kart dobierania nie można łączyć.
+
+## Wild
+Można ją zagrać na dowolną kartę; wybierz kolor, którym toczy się dalej gra.
+
+## Wild Draw Four
+Wybierz kolor; następny gracz dobiera 4 karty i traci kolejkę. Możesz ją zagrać tylko wtedy, gdy nie masz żadnej karty w bieżącym kolorze (karty o tej samej liczbie lub symbolu się nie liczą).
+
+## Podważenie Wild Draw Four
+Gracz, w którego zagrano Wild Draw Four, może ją podważyć. Jeśli karta została zagrana niezgodnie z zasadami, zagrywający dobiera 4 karty, a podważający gra normalnie. Jeśli zgodnie z zasadami — podważający dobiera 6 kart i traci kolejkę.
+
+## UNO!
+Dotknij UNO, gdy zagrywasz przedostatnią kartę. Jeśli zostaniesz z jedną kartą bez ogłoszenia, każdy gracz może cię złapać, zanim następny gracz zacznie swoją kolejkę — dobierasz 2 karty. Możesz ogłosić to z opóźnieniem, dopóki nikt cię nie złapał.
+
+## Koniec talii
+Gdy talia się skończy, stos kart odrzuconych (bez wierzchniej karty) jest tasowany i tworzy nową talię.
+
+## Zejście z kart
+Zagrywając ostatnią kartę, kończysz rundę. Jeśli była to Draw Two lub Wild Draw Four, następny gracz i tak dobiera.
+
+## Punktacja
+Gdy skończysz, zdobywasz punkty za karty, które zostały na rękach graczy wciąż grających: karty z liczbami według wartości, Skip/Reverse/Draw Two 20 punktów, Wild/Wild Draw Four 50 punktów. Punkty sumują się między rundami.
+
+## Gra online
+Każda kolejka ma limit 30 sekund; gdy czas minie, dobierasz kartę i kolejka przechodzi dalej. Jeśli ktoś straci połączenie lub opuści aplikację, komputer gra za niego, aż wróci — użyj Rejoin na ekranie głównym. Gra bez ruchu przez 5 minut zamyka się na wszystkich telefonach.

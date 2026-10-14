@@ -1,0 +1,54 @@
+Resmî kurallar
+
+## Amaç
+Tüm kartlarını ilk bitiren ol. Sonrasında herkes bitirene kadar oyun devam eder, böylece her oyuncu bir sıralama alır.
+
+## Deste
+108 kart: her renkte (Red, Yellow, Green ve Blue) bir 0, 1–9 arası her sayıdan ikişer ve Skip, Reverse ve Draw Two kartlarından ikişer. Ayrıca 4 Wild ve 4 Wild Draw Four.
+
+## Hazırlık
+Dağıtıcı Shuffle & Deal'a dokunur. Herkes 7 kart alır ve destenin en üstteki kartı atılan kartlar destesini başlatır. Dağıtıcı rolü her elde bir koltuk sola geçer.
+
+## İlk kart
+Sayı: dağıtıcının solundaki oyuncu başlar.
+Skip: o oyuncu sırasını kaybeder.
+Reverse: yön değişir ve dağıtıcı başlar.
+Draw Two: o oyuncu 2 kart çeker ve sırasını kaybeder.
+Wild: o oyuncu rengi seçer, sonra oynar.
+Wild Draw Four: desteye geri konur ve yeni bir kart açılır.
+
+## Senin sıran
+En üstteki kartla renk, sayı veya sembol olarak eşleşen bir kart oyna — ya da bir Wild oyna. Oynayamıyorsan (veya istemiyorsan) bir kart çek. Çektiğin kart oynanabiliyorsa hemen oynayabilirsin; değilse sıran biter. Kart çektikten sonra yalnızca çekilen kart oynanabilir.
+
+## Skip
+Sıradaki oyuncu sırasını kaybeder.
+
+## Reverse
+Oyunun yönü değişir. Yalnızca iki oyuncu kaldıysa Reverse, Skip gibi çalışır.
+
+## Draw Two
+Sıradaki oyuncu 2 kart çeker ve sırasını kaybeder. Çekme kartları üst üste eklenemez.
+
+## Wild
+Her kartın üzerine oynanabilir; oyunun devam edeceği rengi seç.
+
+## Wild Draw Four
+Rengi seç; sıradaki oyuncu 4 kart çeker ve sırasını kaybeder. Yalnızca elinde mevcut renkte hiç kart yoksa oynayabilirsin (aynı sayı veya sembole sahip kartlar sayılmaz).
+
+## Wild Draw Four'a itiraz
+Wild Draw Four'dan etkilenen oyuncu itiraz edebilir. Kart kurala aykırı oynandıysa, oynayan kişi 4 kart çeker ve itiraz eden normal oynar. Kurala uygunsa, itiraz eden 6 kart çeker ve sırasını kaybeder.
+
+## UNO!
+Sondan bir önceki kartını oynarken UNO'ya dokun. Söylemeden tek kartla kalırsan, sıradaki oyuncu sırasına başlamadan önce herhangi bir oyuncu seni yakalayabilir — 2 kart çekersin. Kimse yakalamadıysa geç de olsa söyleyebilirsin.
+
+## Deste bitince
+Deste boşalınca, atılan kartlar (en üstteki hariç) karıştırılıp yeni deste yapılır.
+
+## Bitirmek
+Son kartını oynadığında eli bitirirsin. Bu bir Draw Two veya Wild Draw Four ise, sıradaki oyuncu yine de kart çeker.
+
+## Puanlama
+Bitirdiğinde, hâlâ oynayanların elinde kalan kartların puanını alırsın: sayı kartları kendi değeri, Skip/Reverse/Draw Two 20 puan, Wild/Wild Draw Four 50 puan. Puanlar eller boyunca toplanır.
+
+## Çevrimiçi oyun
+Her sıranın 30 saniye sınırı vardır; süre dolunca kart çekersin ve sıra geçer. Biri bağlantısını kaybederse veya uygulamadan çıkarsa, dönene kadar bilgisayar onun yerine oynar — ana ekranda Rejoin'i kullan. 5 dakika boyunca hamle yapılmayan oyun tüm telefonlarda kapanır.

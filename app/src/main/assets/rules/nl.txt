@@ -1,0 +1,54 @@
+Officiële regels
+
+## Doel
+Raak als eerste al je kaarten kwijt. Daarna gaat het spel door tot iedereen klaar is, zodat elke speler een eindplaats krijgt.
+
+## Het spel kaarten
+108 kaarten: in elke kleur (Red, Yellow, Green en Blue) één 0, twee van elk getal 1–9 en twee van elke Skip, Reverse en Draw Two. Plus 4 Wild en 4 Wild Draw Four.
+
+## Voorbereiding
+De gever tikt op Shuffle & Deal. Iedereen krijgt 7 kaarten en de bovenste kaart van de stapel begint de aflegstapel. De rol van gever schuift elke ronde één plaats naar links.
+
+## Eerste kaart
+Getal: de speler links van de gever begint.
+Skip: die speler slaat een beurt over.
+Reverse: de richting draait om en de gever begint.
+Draw Two: die speler pakt 2 kaarten en slaat een beurt over.
+Wild: die speler kiest de kleur en speelt dan.
+Wild Draw Four: gaat terug in de stapel en er wordt een nieuwe kaart omgedraaid.
+
+## Jouw beurt
+Speel een kaart die qua kleur, getal of symbool past bij de bovenste kaart — of speel een Wild. Kun (of wil) je niet spelen, pak dan één kaart. Is de gepakte kaart speelbaar, dan mag je hem meteen spelen; anders eindigt je beurt. Na het pakken mag alleen de gepakte kaart gespeeld worden.
+
+## Skip
+De volgende speler slaat een beurt over.
+
+## Reverse
+De speelrichting draait om. Met nog maar twee spelers werkt Reverse als Skip.
+
+## Draw Two
+De volgende speler pakt 2 kaarten en slaat een beurt over. Pakkaarten kunnen niet gestapeld worden.
+
+## Wild
+Mag op elke kaart; kies de kleur waarmee verder wordt gespeeld.
+
+## Wild Draw Four
+Kies de kleur; de volgende speler pakt 4 kaarten en slaat een beurt over. Je mag hem alleen spelen als je geen kaart van de huidige kleur hebt (kaarten met hetzelfde getal of symbool tellen niet).
+
+## Een Wild Draw Four aanvechten
+De speler die een Wild Draw Four krijgt, mag die aanvechten. Is de kaart onterecht gespeeld, dan pakt de speler die hem legde 4 kaarten en speelt de uitdager gewoon. Was hij terecht, dan pakt de uitdager 6 kaarten en slaat een beurt over.
+
+## UNO!
+Tik op UNO als je je op een na laatste kaart speelt. Blijf je met één kaart over zonder het te roepen, dan kan elke speler je betrappen voordat de volgende speler aan de beurt begint — je pakt 2 kaarten. Zolang niemand je heeft betrapt, mag je het alsnog roepen.
+
+## Stapel op
+Is de stapel leeg, dan wordt de aflegstapel (behalve de bovenste kaart) geschud tot een nieuwe stapel.
+
+## Uitgaan
+Met je laatste kaart maak je de ronde af. Was het een Draw Two of Wild Draw Four, dan pakt de volgende speler toch.
+
+## Punten
+Als je uitgaat, krijg je de punten van de kaarten die nog in de handen van de overige spelers zitten: getallen op waarde, Skip/Reverse/Draw Two 20 punten, Wild/Wild Draw Four 50 punten. Punten tellen op over de rondes.
+
+## Online spelen
+Elke beurt heeft een limiet van 30 seconden; is die voorbij, dan pak je een kaart en gaat de beurt door. Verliest iemand de verbinding of verlaat iemand de app, dan speelt de computer voor hem tot hij terug is — gebruik Rejoin op het startscherm. Een spel zonder zetten gedurende 5 minuten sluit op alle telefoons.
