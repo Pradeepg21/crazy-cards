@@ -1,4 +1,4 @@
-# UNO Multiplayer — setup & release
+# Crazy Cards — setup & release
 
 ## 1. Firebase (needed for sign-in and online play)
 Offline play vs the computer works without this.

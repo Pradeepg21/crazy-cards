@@ -1,4 +1,4 @@
-Offizielle Regeln
+So wird gespielt
 
 ## Ziel
 Werde als Erster alle deine Karten los. Danach geht das Spiel weiter, bis alle fertig sind, sodass jeder Spieler eine Endplatzierung bekommt.
@@ -38,8 +38,8 @@ Wähle die Farbe; der nächste Spieler zieht 4 Karten und setzt aus. Du darfst s
 ## Wild Draw Four anzweifeln
 Der Spieler, den ein Wild Draw Four trifft, darf es anzweifeln. Wurde die Karte regelwidrig gespielt, zieht stattdessen der Ausspielende 4 Karten und der Herausforderer spielt normal. War sie regelkonform, zieht der Herausforderer 6 Karten und setzt aus.
 
-## UNO!
-Tippe auf UNO, wenn du gerade deine vorletzte Karte spielst. Bleibst du mit einer Karte übrig, ohne es anzusagen, kann dich jeder Spieler erwischen, bevor der nächste Spieler seinen Zug beginnt – dann ziehst du 2 Karten. Solange dich niemand erwischt hat, kannst du es noch nachholen.
+## Last Card!
+Tippe auf Last Card, wenn du gerade deine vorletzte Karte spielst. Bleibst du mit einer Karte übrig, ohne es anzusagen, kann dich jeder Spieler erwischen, bevor der nächste Spieler seinen Zug beginnt – dann ziehst du 2 Karten. Solange dich niemand erwischt hat, kannst du es noch nachholen.
 
 ## Stapel leer
 Ist der Stapel leer, wird der Ablagestapel (außer der obersten Karte) gemischt und bildet einen neuen Stapel.

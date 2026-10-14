@@ -1,4 +1,4 @@
-Reglas oficiales
+Cómo jugar
 
 ## Objetivo
 Sé el primero en quedarte sin cartas. Después la partida sigue hasta que todos terminan, para que cada jugador tenga una posición final.
@@ -38,8 +38,8 @@ Elige el color; el siguiente jugador roba 4 y pierde su turno. Solo puedes jugar
 ## Desafiar un Wild Draw Four
 El jugador afectado por un Wild Draw Four puede desafiarlo. Si la carta se jugó de forma ilegal, quien la jugó roba 4 y el desafiante juega con normalidad. Si era legal, el desafiante roba 6 y pierde su turno.
 
-## ¡UNO!
-Toca UNO cuando vayas a jugar tu penúltima carta. Si te quedas con una carta sin decirlo, cualquier jugador puede atraparte antes de que empiece el turno del siguiente: robas 2. Puedes decirlo tarde mientras nadie te haya atrapado.
+## ¡Last Card!
+Toca Last Card cuando vayas a jugar tu penúltima carta. Si te quedas con una carta sin decirlo, cualquier jugador puede atraparte antes de que empiece el turno del siguiente: robas 2. Puedes decirlo tarde mientras nadie te haya atrapado.
 
 ## Si se acaba la baraja
 Cuando la baraja se vacía, se mezcla la pila de descarte (menos la carta superior) para formar una nueva baraja.

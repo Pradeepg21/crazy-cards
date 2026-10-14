@@ -1,4 +1,4 @@
-Official rules
+How to play
 
 ## Goal
 Be the first to get rid of all your cards. Play continues after that until everyone has finished, so every player gets a final place.
@@ -38,8 +38,8 @@ Choose the color; the next player draws 4 and loses their turn. You may only pla
 ## Challenging a Wild Draw Four
 The player hit by a Wild Draw Four may challenge it. If the card was played illegally, the player who played it draws 4 instead and the challenger plays normally. If it was legal, the challenger draws 6 and loses their turn.
 
-## UNO!
-Tap UNO when you are about to play your second-to-last card. If you leave yourself with one card without calling it, any player can catch you before the next player begins their turn — you draw 2. You can still call it late if nobody has caught you yet.
+## Last Card!
+Tap Last Card when you are about to play your second-to-last card. If you leave yourself with one card without calling it, any player can catch you before the next player begins their turn — you draw 2. You can still call it late if nobody has caught you yet.
 
 ## Running out of cards
 When the deck is empty, the discard pile (except the top card) is shuffled to form a new deck.

@@ -1,4 +1,4 @@
-Regole ufficiali
+Come si gioca
 
 ## Obiettivo
 Sii il primo a liberarti di tutte le tue carte. Dopo, il gioco continua finché tutti hanno finito, così ogni giocatore ottiene una posizione finale.
@@ -38,8 +38,8 @@ Scegli il colore; il giocatore successivo pesca 4 carte e salta il turno. Puoi g
 ## Contestare un Wild Draw Four
 Il giocatore colpito da un Wild Draw Four può contestarlo. Se la carta è stata giocata in modo irregolare, chi l'ha giocata pesca 4 carte al suo posto e lo sfidante gioca normalmente. Se era regolare, lo sfidante pesca 6 carte e salta il turno.
 
-## UNO!
-Tocca UNO quando stai per giocare la penultima carta. Se resti con una carta senza dirlo, qualsiasi giocatore può coglierti prima che il giocatore successivo inizi il turno: peschi 2 carte. Puoi ancora dirlo in ritardo finché nessuno ti ha colto.
+## Last Card!
+Tocca Last Card quando stai per giocare la penultima carta. Se resti con una carta senza dirlo, qualsiasi giocatore può coglierti prima che il giocatore successivo inizi il turno: peschi 2 carte. Puoi ancora dirlo in ritardo finché nessuno ti ha colto.
 
 ## Mazzo finito
 Quando il mazzo è vuoto, la pila degli scarti (tranne la carta in cima) viene mescolata per formare un nuovo mazzo.

@@ -1,4 +1,4 @@
-Oficjalne zasady
+Jak grać
 
 ## Cel
 Pozbądź się wszystkich kart jako pierwszy. Potem gra trwa dalej, aż wszyscy skończą, więc każdy gracz otrzymuje miejsce końcowe.
@@ -38,8 +38,8 @@ Wybierz kolor; następny gracz dobiera 4 karty i traci kolejkę. Możesz ją zag
 ## Podważenie Wild Draw Four
 Gracz, w którego zagrano Wild Draw Four, może ją podważyć. Jeśli karta została zagrana niezgodnie z zasadami, zagrywający dobiera 4 karty, a podważający gra normalnie. Jeśli zgodnie z zasadami — podważający dobiera 6 kart i traci kolejkę.
 
-## UNO!
-Dotknij UNO, gdy zagrywasz przedostatnią kartę. Jeśli zostaniesz z jedną kartą bez ogłoszenia, każdy gracz może cię złapać, zanim następny gracz zacznie swoją kolejkę — dobierasz 2 karty. Możesz ogłosić to z opóźnieniem, dopóki nikt cię nie złapał.
+## Last Card!
+Dotknij Last Card, gdy zagrywasz przedostatnią kartę. Jeśli zostaniesz z jedną kartą bez ogłoszenia, każdy gracz może cię złapać, zanim następny gracz zacznie swoją kolejkę — dobierasz 2 karty. Możesz ogłosić to z opóźnieniem, dopóki nikt cię nie złapał.
 
 ## Koniec talii
 Gdy talia się skończy, stos kart odrzuconych (bez wierzchniej karty) jest tasowany i tworzy nową talię.

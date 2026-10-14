@@ -1,4 +1,4 @@
-Aturan resmi
+Cara bermain
 
 ## Tujuan
 Jadilah yang pertama menghabiskan semua kartumu. Setelah itu permainan berlanjut sampai semua selesai, sehingga setiap pemain mendapat peringkat akhir.
@@ -38,8 +38,8 @@ Pilih warna; pemain berikutnya mengambil 4 kartu dan kehilangan gilirannya. Kamu
 ## Menantang Wild Draw Four
 Pemain yang terkena Wild Draw Four boleh menantangnya. Jika kartu dimainkan secara tidak sah, pemain yang memainkannya mengambil 4 kartu dan penantang bermain seperti biasa. Jika sah, penantang mengambil 6 kartu dan kehilangan gilirannya.
 
-## UNO!
-Ketuk UNO saat akan memainkan kartu kedua dari terakhir. Jika kamu tersisa satu kartu tanpa menyerukannya, pemain mana pun bisa menangkapmu sebelum pemain berikutnya memulai giliran — kamu mengambil 2 kartu. Kamu masih boleh menyerukannya terlambat selama belum ada yang menangkapmu.
+## Last Card!
+Ketuk Last Card saat akan memainkan kartu kedua dari terakhir. Jika kamu tersisa satu kartu tanpa menyerukannya, pemain mana pun bisa menangkapmu sebelum pemain berikutnya memulai giliran — kamu mengambil 2 kartu. Kamu masih boleh menyerukannya terlambat selama belum ada yang menangkapmu.
 
 ## Dek habis
 Saat dek kosong, tumpukan buangan (kecuali kartu teratas) dikocok menjadi dek baru.

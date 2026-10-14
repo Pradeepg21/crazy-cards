@@ -117,9 +117,9 @@ fun HomeScreen(vm: AppViewModel) {
         Logo(width = 130.dp)
         Spacer(Modifier.height(20.dp))
         Text(
-            "UNO", color = UnoColors.Yellow, fontSize = 56.sp, fontWeight = FontWeight.Black, fontStyle = FontStyle.Italic,
+            "CRAZY", color = UnoColors.Yellow, fontSize = 56.sp, fontWeight = FontWeight.Black, fontStyle = FontStyle.Italic,
         )
-        Text("Multiplayer", color = Color.White.copy(alpha = 0.8f), fontSize = 16.sp, letterSpacing = 4.sp)
+        Text("CARDS", color = Color.White.copy(alpha = 0.8f), fontSize = 20.sp, fontWeight = FontWeight.Bold, letterSpacing = 8.sp)
         Spacer(Modifier.height(28.dp))
 
         vm.rejoin?.let { r ->
@@ -137,7 +137,7 @@ fun HomeScreen(vm: AppViewModel) {
         BigButton("Join with code", UnoColors.Green, enabled = !vm.busy) { vm.go(Screen.JOIN) }
         Spacer(Modifier.height(12.dp))
         OutlinedButton(onClick = vm::openRules, modifier = Modifier.fillMaxWidth().height(50.dp), shape = RoundedCornerShape(16.dp)) {
-            Text("📖 Official rules", color = Color.White)
+            Text("📖 How to play", color = Color.White)
         }
         if (vm.busy) {
             Spacer(Modifier.height(12.dp))
@@ -264,9 +264,9 @@ fun OfflineSetupScreen(vm: AppViewModel) {
         Spacer(Modifier.height(8.dp))
         Text(
             when (level) {
-                0 -> "Relaxed opponents who sometimes forget to say UNO."
+                0 -> "Relaxed opponents who sometimes forget to call Last Card."
                 1 -> "Solid players who use action cards wisely."
-                else -> "Sharp opponents: they save wilds, gang up on the leader, catch every missed UNO and might bluff a Wild Draw Four."
+                else -> "Sharp opponents: they save wilds, gang up on the leader, catch every missed Last Card and might bluff a Wild Draw Four."
             },
             color = Color.White.copy(alpha = 0.7f), textAlign = TextAlign.Center, fontSize = 13.sp,
         )
@@ -397,7 +397,7 @@ fun LobbyScreen(vm: AppViewModel, g: OnlineGame) {
 }
 
 private fun shareText(code: String) =
-    "Let's play UNO! Open the UNO Multiplayer app, tap \"Join with code\" and enter: $code"
+    "Let's play Crazy Cards! Open the Crazy Cards app, tap \"Join with code\" and enter: $code"
 
 private fun shareCode(context: Context, code: String) {
     val send = Intent(Intent.ACTION_SEND).setType("text/plain").putExtra(Intent.EXTRA_TEXT, shareText(code))
@@ -405,6 +405,6 @@ private fun shareCode(context: Context, code: String) {
 }
 
 private fun copyCode(context: Context, code: String) {
-    context.getSystemService(ClipboardManager::class.java)?.setPrimaryClip(ClipData.newPlainText("UNO game code", code))
+    context.getSystemService(ClipboardManager::class.java)?.setPrimaryClip(ClipData.newPlainText("Crazy Cards game code", code))
     Toast.makeText(context, "Code $code copied", Toast.LENGTH_SHORT).show()
 }

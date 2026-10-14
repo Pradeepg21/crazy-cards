@@ -1,4 +1,4 @@
-Resmî kurallar
+Nasıl oynanır
 
 ## Amaç
 Tüm kartlarını ilk bitiren ol. Sonrasında herkes bitirene kadar oyun devam eder, böylece her oyuncu bir sıralama alır.
@@ -38,8 +38,8 @@ Rengi seç; sıradaki oyuncu 4 kart çeker ve sırasını kaybeder. Yalnızca el
 ## Wild Draw Four'a itiraz
 Wild Draw Four'dan etkilenen oyuncu itiraz edebilir. Kart kurala aykırı oynandıysa, oynayan kişi 4 kart çeker ve itiraz eden normal oynar. Kurala uygunsa, itiraz eden 6 kart çeker ve sırasını kaybeder.
 
-## UNO!
-Sondan bir önceki kartını oynarken UNO'ya dokun. Söylemeden tek kartla kalırsan, sıradaki oyuncu sırasına başlamadan önce herhangi bir oyuncu seni yakalayabilir — 2 kart çekersin. Kimse yakalamadıysa geç de olsa söyleyebilirsin.
+## Last Card!
+Sondan bir önceki kartını oynarken Last Card'a dokun. Söylemeden tek kartla kalırsan, sıradaki oyuncu sırasına başlamadan önce herhangi bir oyuncu seni yakalayabilir — 2 kart çekersin. Kimse yakalamadıysa geç de olsa söyleyebilirsin.
 
 ## Deste bitince
 Deste boşalınca, atılan kartlar (en üstteki hariç) karıştırılıp yeni deste yapılır.

@@ -1,11 +1,11 @@
-# Privacy Policy — UNO Multiplayer
+# Privacy Policy — Crazy Cards
 
 **Effective date:** 14 October 2026
-**App:** UNO Multiplayer (Android, package `com.satya.uno`)
+**App:** Crazy Cards (Android, package `com.satya.uno`)
 **Developer:** Satya Digital
 **Contact:** support.satyadigital@gmail.com
 
-This policy explains what information UNO Multiplayer ("the app", "we") collects, why, and the
+This policy explains what information Crazy Cards ("the app", "we") collects, why, and the
 choices you have. The app has no ads, no analytics or tracking tools, and we never sell your data.
 
 ## 1. Playing offline
@@ -75,7 +75,7 @@ We do not share your data with anyone else, except where required by law.
 
 To delete your account and the game data linked to it, email **support.satyadigital@gmail.com**
 from the address you signed in with (or tell us the email of your account), with the subject
-**"Delete my UNO account"**. We will delete your account and remove or anonymise game records
+**"Delete my Crazy Cards account"**. We will delete your account and remove or anonymise game records
 linked to it within 30 days, and confirm by email.
 
 ## 8. Security

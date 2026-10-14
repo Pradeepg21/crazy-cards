@@ -1,4 +1,4 @@
-Luật chính thức
+Cách chơi
 
 ## Mục tiêu
 Hãy là người đầu tiên đánh hết bài trên tay. Sau đó ván chơi tiếp tục cho đến khi mọi người đều xong, để ai cũng có thứ hạng cuối cùng.
@@ -38,8 +38,8 @@ Chọn màu; người tiếp theo rút 4 lá và mất lượt. Bạn chỉ đư
 ## Thách thức Wild Draw Four
 Người bị đánh Wild Draw Four có thể thách thức. Nếu lá bài bị đánh sai luật, người đánh phải rút 4 lá thay vào đó và người thách thức chơi bình thường. Nếu đúng luật, người thách thức rút 6 lá và mất lượt.
 
-## UNO!
-Chạm UNO khi bạn sắp đánh lá áp chót. Nếu còn một lá mà không hô, bất kỳ ai cũng có thể bắt lỗi bạn trước khi người tiếp theo bắt đầu lượt — bạn rút 2 lá. Bạn vẫn có thể hô muộn nếu chưa ai bắt lỗi.
+## Last Card!
+Chạm Last Card khi bạn sắp đánh lá áp chót. Nếu còn một lá mà không hô, bất kỳ ai cũng có thể bắt lỗi bạn trước khi người tiếp theo bắt đầu lượt — bạn rút 2 lá. Bạn vẫn có thể hô muộn nếu chưa ai bắt lỗi.
 
 ## Hết bài
 Khi bộ bài hết, chồng bài bỏ (trừ lá trên cùng) được xáo lại thành bộ bài mới.

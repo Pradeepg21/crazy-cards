@@ -12,8 +12,8 @@ if (file("google-services.json").exists()) {
 }
 
 // Versioning — see SPEC.md §2. Bump on EVERY code change.
-val appVersionCode = 5
-val appVersionName = "1.2.0"
+val appVersionCode = 6
+val appVersionName = "1.3.0"
 
 // Highest versionCode ever uploaded to Play Console (kept in play-upload.properties).
 // Release builds fail if appVersionCode isn't higher, because Play rejects reused codes.

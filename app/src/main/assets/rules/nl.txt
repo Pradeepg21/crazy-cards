@@ -1,4 +1,4 @@
-Officiële regels
+Hoe speel je
 
 ## Doel
 Raak als eerste al je kaarten kwijt. Daarna gaat het spel door tot iedereen klaar is, zodat elke speler een eindplaats krijgt.
@@ -38,8 +38,8 @@ Kies de kleur; de volgende speler pakt 4 kaarten en slaat een beurt over. Je mag
 ## Een Wild Draw Four aanvechten
 De speler die een Wild Draw Four krijgt, mag die aanvechten. Is de kaart onterecht gespeeld, dan pakt de speler die hem legde 4 kaarten en speelt de uitdager gewoon. Was hij terecht, dan pakt de uitdager 6 kaarten en slaat een beurt over.
 
-## UNO!
-Tik op UNO als je je op een na laatste kaart speelt. Blijf je met één kaart over zonder het te roepen, dan kan elke speler je betrappen voordat de volgende speler aan de beurt begint — je pakt 2 kaarten. Zolang niemand je heeft betrapt, mag je het alsnog roepen.
+## Last Card!
+Tik op Last Card als je je op een na laatste kaart speelt. Blijf je met één kaart over zonder het te roepen, dan kan elke speler je betrappen voordat de volgende speler aan de beurt begint — je pakt 2 kaarten. Zolang niemand je heeft betrapt, mag je het alsnog roepen.
 
 ## Stapel op
 Is de stapel leeg, dan wordt de aflegstapel (behalve de bovenste kaart) geschud tot een nieuwe stapel.

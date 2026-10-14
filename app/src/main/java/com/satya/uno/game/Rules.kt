@@ -19,13 +19,13 @@ object Rules {
             is Action.Catch -> {
                 val v = s.vulnerable
                 if (v < 0 || v == a.seat || s.phase == Phase.ROUND_OVER) throw IllegalMove("Too late to catch")
-                give(s, v, 2, rnd).copy(vulnerable = -1, event = "$name caught ${s.seats[v].name} without UNO! +2")
+                give(s, v, 2, rnd).copy(vulnerable = -1, event = "$name caught ${s.seats[v].name} without Last Card! +2")
             }
             is Action.CallUno -> when {
-                s.vulnerable == a.seat -> s.copy(vulnerable = -1, event = "$name: UNO!")
+                s.vulnerable == a.seat -> s.copy(vulnerable = -1, event = "$name: Last Card!")
                 a.seat == s.turn && s.phase == Phase.PLAY && s.hands[a.seat].size == 2 ->
-                    s.copy(unoSaid = true, event = "$name: UNO!")
-                else -> throw IllegalMove("Call UNO when you have two cards on your turn")
+                    s.copy(unoSaid = true, event = "$name: Last Card!")
+                else -> throw IllegalMove("Call Last Card when you have two cards on your turn")
             }
             else -> {
                 if (a.seat != s.turn) throw IllegalMove("Not your turn")
@@ -101,7 +101,7 @@ object Rules {
         val outNow = newHand.isEmpty()
         var event = "$name played ${card.label}"
         if (card.isWild) event += " → ${chosen!!.label}"
-        if (newHand.size == 1 && calledUno) event += " — UNO!"
+        if (newHand.size == 1 && calledUno) event += " — Last Card!"
         var st = s.copy(
             hands = s.hands.replace(a.seat, newHand),
             discard = s.discard + card,

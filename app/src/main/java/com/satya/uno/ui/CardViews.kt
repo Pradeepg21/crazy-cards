@@ -1,5 +1,8 @@
 package com.satya.uno.ui
 
+import androidx.compose.foundation.layout.Column
+import androidx.compose.ui.graphics.drawscope.Stroke
+import androidx.compose.ui.graphics.Path
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -23,7 +26,6 @@ import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.drawscope.rotate
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
@@ -109,19 +111,20 @@ fun CardFace(card: Card?, width: Dp, modifier: Modifier = Modifier, faceDown: Bo
         }
         val wild = card.isWild
         Canvas(Modifier.fillMaxSize()) {
-            rotate(28f) {
-                val w = size.width * 0.66f
-                val h = size.height * 0.92f
-                val tl = Offset((size.width - w) / 2, (size.height - h) / 2)
-                if (wild) {
-                    // Four-color oval for wild cards.
-                    val colors = listOf(UnoColors.Red, UnoColors.Blue, UnoColors.Yellow, UnoColors.Green)
-                    colors.forEachIndexed { i, c ->
-                        drawArc(c, startAngle = 180f + 90f * i, sweepAngle = 90f, useCenter = true, topLeft = tl, size = Size(w, h))
-                    }
-                } else {
-                    drawOval(Color.White, topLeft = tl, size = Size(w, h))
+            if (wild) {
+                // Four-color diamond for wild cards.
+                val colors = listOf(UnoColors.Red, UnoColors.Blue, UnoColors.Yellow, UnoColors.Green)
+                val v = diamond(size)
+                colors.forEachIndexed { i, c ->
+                    drawPath(Path().apply {
+                        moveTo(center.x, center.y)
+                        lineTo(v[i].x, v[i].y)
+                        lineTo(v[(i + 1) % 4].x, v[(i + 1) % 4].y)
+                        close()
+                    }, c)
                 }
+            } else {
+                drawPath(diamondPath(size), Color.White)
             }
         }
         val fg = if (wild) Color.White else bg
@@ -139,24 +142,35 @@ fun CardFace(card: Card?, width: Dp, modifier: Modifier = Modifier, faceDown: Bo
     }
 }
 
+/** Corners of the upright diamond drawn in the middle of every card: top, right, bottom, left. */
+private fun diamond(size: Size): List<Offset> {
+    val hw = size.width * 0.40f
+    val hh = size.height * 0.40f
+    val c = Offset(size.width / 2, size.height / 2)
+    return listOf(Offset(c.x, c.y - hh), Offset(c.x + hw, c.y), Offset(c.x, c.y + hh), Offset(c.x - hw, c.y))
+}
+
+private fun diamondPath(size: Size) = Path().apply {
+    val v = diamond(size)
+    moveTo(v[0].x, v[0].y)
+    v.drop(1).forEach { lineTo(it.x, it.y) }
+    close()
+}
+
 @Composable
 private fun CardBack(width: Dp) {
     Canvas(Modifier.fillMaxSize()) {
-        rotate(28f) {
-            val w = size.width * 0.66f
-            val h = size.height * 0.92f
-            drawOval(UnoColors.Red, topLeft = Offset((size.width - w) / 2, (size.height - h) / 2), size = Size(w, h))
-        }
+        drawPath(diamondPath(size), UnoColors.Gold)
+        drawPath(diamondPath(size), Color.White, style = Stroke(width = size.width * 0.03f))
     }
-    Text(
-        "UNO",
-        modifier = Modifier.rotate(-28f),
-        style = TextStyle(
-            color = UnoColors.Yellow, fontSize = (width.value * 0.27f).sp, fontWeight = FontWeight.Black,
-            fontStyle = FontStyle.Italic,
-            shadow = androidx.compose.ui.graphics.Shadow(Color.Black, Offset(2f, 2f), 1f),
-        ),
-    )
+    Column(horizontalAlignment = Alignment.CenterHorizontally) {
+        val style = TextStyle(
+            color = UnoColors.Black, fontSize = (width.value * 0.15f).sp, fontWeight = FontWeight.Black,
+            fontStyle = FontStyle.Italic, lineHeight = (width.value * 0.16f).sp,
+        )
+        Text("CRAZY", style = style)
+        Text("CARDS", style = style)
+    }
 }
 
 /** Big tilted logo card used on the home screen. */

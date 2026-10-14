@@ -1,4 +1,4 @@
-Opisyal na mga patakaran
+Paano laruin
 
 ## Layunin
 Maging una sa pag-ubos ng lahat ng iyong baraha. Pagkatapos noon, tuloy ang laro hanggang matapos ang lahat, kaya bawat manlalaro ay may huling puwesto.
@@ -38,8 +38,8 @@ Pumili ng kulay; bubunot ng 4 ang susunod na manlalaro at mawawalan ng turn. Puw
 ## Paghamon sa Wild Draw Four
 Puwedeng hamunin ng manlalarong tinamaan ng Wild Draw Four ito. Kung ilegal itong nilaro, ang naglaro ang bubunot ng 4 at normal na maglalaro ang humamon. Kung legal, bubunot ng 6 ang humamon at mawawalan ng turn.
 
-## UNO!
-Pindutin ang UNO kapag ilalapag mo na ang pangalawa sa huling baraha mo. Kung isa na lang ang baraha mo nang hindi ito sinasabi, puwede kang mahuli ng sinumang manlalaro bago magsimula ang turn ng susunod — bubunot ka ng 2. Puwede mo pa itong sabihin nang huli basta wala pang nakahuhuli sa iyo.
+## Last Card!
+Pindutin ang Last Card kapag ilalapag mo na ang pangalawa sa huling baraha mo. Kung isa na lang ang baraha mo nang hindi ito sinasabi, puwede kang mahuli ng sinumang manlalaro bago magsimula ang turn ng susunod — bubunot ka ng 2. Puwede mo pa itong sabihin nang huli basta wala pang nakahuhuli sa iyo.
 
 ## Kapag naubos ang deck
 Kapag wala nang laman ang deck, babalasahin ang tapunan (maliban sa pinakaibabaw) para maging bagong deck.

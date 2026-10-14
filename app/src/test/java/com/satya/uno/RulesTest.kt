@@ -106,7 +106,7 @@ class RulesTest {
         assertEquals(0, after.vulnerable)
         val caught = Rules.apply(after, Action.Catch(2), 0, Random(1))
         assertEquals(3, caught.hands[0].size)
-        // Calling UNO before playing keeps you safe.
+        // Calling Last Card before playing keeps you safe.
         val safe = Rules.apply(s, Action.Play(0, 0, "R5", uno = true), 0)
         assertEquals(-1, safe.vulnerable)
         // Next player acting closes the window.

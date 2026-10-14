@@ -1,4 +1,4 @@
-Regras oficiais
+Como jogar
 
 ## Objetivo
 Seja o primeiro a se livrar de todas as suas cartas. Depois disso o jogo continua até todos terminarem, para que cada jogador tenha uma colocação final.
@@ -38,8 +38,8 @@ Escolha a cor; o próximo jogador compra 4 e perde a vez. Você só pode jogá-l
 ## Contestar um Wild Draw Four
 O jogador atingido por um Wild Draw Four pode contestá-lo. Se a carta foi jogada de forma ilegal, quem a jogou compra 4 no lugar e o contestador joga normalmente. Se era legal, o contestador compra 6 e perde a vez.
 
-## UNO!
-Toque em UNO quando for jogar sua penúltima carta. Se ficar com uma carta sem avisar, qualquer jogador pode pegar você antes de o próximo começar a vez — você compra 2. Ainda dá para avisar atrasado enquanto ninguém tiver pegado você.
+## Last Card!
+Toque em Last Card quando for jogar sua penúltima carta. Se ficar com uma carta sem avisar, qualquer jogador pode pegar você antes de o próximo começar a vez — você compra 2. Ainda dá para avisar atrasado enquanto ninguém tiver pegado você.
 
 ## Baralho acabou
 Quando o baralho esvazia, a pilha de descarte (menos a carta de cima) é embaralhada para formar um novo baralho.

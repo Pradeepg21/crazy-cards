@@ -1,4 +1,4 @@
-Règles officielles
+Comment jouer
 
 ## But du jeu
 Soyez le premier à vous débarrasser de toutes vos cartes. La partie continue ensuite jusqu'à ce que tout le monde ait fini, pour que chaque joueur obtienne un classement.
@@ -38,8 +38,8 @@ Choisissez la couleur ; le joueur suivant pioche 4 cartes et passe son tour. Vou
 ## Contester un Wild Draw Four
 Le joueur visé par un Wild Draw Four peut le contester. Si la carte a été jouée illégalement, celui qui l'a posée pioche 4 cartes à sa place et le contestataire joue normalement. Si elle était légale, le contestataire pioche 6 cartes et passe son tour.
 
-## UNO !
-Touchez UNO quand vous êtes sur le point de jouer votre avant-dernière carte. Si vous restez avec une seule carte sans l'annoncer, n'importe quel joueur peut vous prendre avant que le joueur suivant commence son tour : vous piochez 2 cartes. Vous pouvez encore l'annoncer en retard tant que personne ne vous a pris.
+## Last Card !
+Touchez Last Card quand vous êtes sur le point de jouer votre avant-dernière carte. Si vous restez avec une seule carte sans l'annoncer, n'importe quel joueur peut vous prendre avant que le joueur suivant commence son tour : vous piochez 2 cartes. Vous pouvez encore l'annoncer en retard tant que personne ne vous a pris.
 
 ## Paquet épuisé
 Quand le paquet est vide, la défausse (sauf la carte du dessus) est mélangée pour former un nouveau paquet.

@@ -319,7 +319,7 @@ private fun PlayerChip(s: GameState, i: Int, v: GameView) {
         Text(seat.name, color = Color.White, fontSize = 12.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
         when {
             place >= 0 -> Text("🏆 ${Rules.ordinal(place)}", color = UnoColors.Gold, fontSize = 11.sp)
-            cards == 1 -> Text("UNO!", color = UnoColors.Red, fontWeight = FontWeight.Black, fontSize = 13.sp)
+            cards == 1 -> Text("LAST!", color = UnoColors.Red, fontWeight = FontWeight.Black, fontSize = 13.sp)
             else -> Text("$cards cards", color = Color.White.copy(alpha = 0.8f), fontSize = 11.sp)
         }
         val tag = when {
@@ -460,8 +460,9 @@ private fun UnoButton(armed: Boolean, urgent: Boolean, onClick: () -> Unit) {
         contentAlignment = Alignment.Center,
     ) {
         Text(
-            if (armed) "UNO ✓" else "UNO!", color = if (armed) Color.Black else Color.White,
-            fontWeight = FontWeight.Black, fontStyle = FontStyle.Italic, fontSize = 15.sp,
+            if (armed) "LAST\nCARD ✓" else "LAST\nCARD!", color = if (armed) Color.Black else Color.White,
+            textAlign = TextAlign.Center, lineHeight = 12.sp,
+            fontWeight = FontWeight.Black, fontStyle = FontStyle.Italic, fontSize = 11.sp,
         )
     }
 }
@@ -502,7 +503,7 @@ private fun Hand(s: GameState, me: Int, unoArmed: Boolean, onTap: (Int) -> Unit)
         }
         if (unoArmed) {
             Text(
-                "UNO called — play your card", Modifier.align(Alignment.TopCenter),
+                "Last Card called — play your card", Modifier.align(Alignment.TopCenter),
                 color = UnoColors.Gold, fontSize = 12.sp, fontWeight = FontWeight.Bold,
             )
         }
