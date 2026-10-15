@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Package | `com.satya.uno` |
-| Current version | **1.3.0** (versionCode **6**) |
+| Current version | **1.3.1** (versionCode **7**) |
 | Last uploaded to Play | versionCode **1** |
 | Firebase project | `satya-digital-7248e` (shared with the NCERT app) |
 
@@ -39,6 +39,7 @@ Google Play only accepts a build whose `versionCode` is higher than every build 
 ## 4. Change Log
 | Version | Code | Date | Changes |
 |---|---|---|---|
+| 1.3.1 | 7 | 2026-10-16 | App icon, splash and Play icon now carry the CRAZY CARDS wordmark (Lilita One, SIL OFL 1.1, converted to paths). |
 | 1.3.0 | 6 | 2026-10-15 | Renamed to **Crazy Cards** (trademark). "UNO!" call is now "Last Card!" everywhere incl. all 31 rules files; rules title "How to play". New card art: upright diamond instead of tilted oval, four-color diamond wilds, Crazy Cards card back. New launcher/splash icon (three fanned cards), Play icon and feature graphic. |
 | 1.2.0 | 5 | 2026-10-14 | Rules in 31 languages (English, 12 Indian, 18 foreign) with a dropdown picker and right-to-left layout for Urdu, Arabic and Persian. Each language is a small asset file loaded only when chosen. |
 | 1.1.0 | 4 | 2026-10-14 | Rules screen in English, Hindi and Bengali with a language picker (defaults to the phone language, remembers the choice). |
