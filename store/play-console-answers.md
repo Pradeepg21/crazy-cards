@@ -148,7 +148,10 @@ phone and tablet screenshots.
      applying for production access.
    - Feedback URL or email: `support.satyadigital@gmail.com`
 4. **Create new release:**
-   - Upload `app/release/app-release.aab` (version **1.3.1, code 7**).
+   - Upload a **signed** 1.3.1 (code 7) bundle. Sign it with the upload key Play already knows
+     (SHA-1 `FB:12:D1:7B…A0:65`): Android Studio → Build → Generate Signed App Bundle, or
+     `gradlew bundleRelease` with `keystore.properties` in the project root. Play rejects
+     bundles signed with any other key.
    - Release name: `1.3.1 (7)`
    - Release notes:
      ```
