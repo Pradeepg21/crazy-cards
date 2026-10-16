@@ -76,7 +76,8 @@ We do not share your data with anyone else, except where required by law.
 To delete your account and the game data linked to it, email **support.satyadigital@gmail.com**
 from the address you signed in with (or tell us the email of your account), with the subject
 **"Delete my Crazy Cards account"**. We will delete your account and remove or anonymise game records
-linked to it within 30 days, and confirm by email.
+linked to it within 30 days, and confirm by email. Step-by-step instructions are on the
+[account deletion page](ACCOUNT_DELETION.md).
 
 ## 8. Security
 
